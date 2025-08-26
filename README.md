@@ -13,6 +13,10 @@ The app can process both **images and text** locally without needing an internet
 
 ---
 
+## 📸 Screenshots
+### Screen
+![Screen](screenshots/chatscreen.png)
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
